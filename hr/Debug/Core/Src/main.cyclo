@@ -1,0 +1,16 @@
+../Core/Src/main.c:93:13:DebugPrint	1
+../Core/Src/main.c:99:6:SetPwmDutyCycle	1
+../Core/Src/main.c:110:6:Max30102Setup	1
+../Core/Src/main.c:119:6:Max30102Loop	11
+../Core/Src/main.c:206:6:ADC_Select_CH0	2
+../Core/Src/main.c:218:6:ADC_Select_CH1	2
+../Core/Src/main.c:236:5:main	1
+../Core/Src/main.c:309:6:SystemClock_Config	3
+../Core/Src/main.c:355:13:MX_ADC1_Init	4
+../Core/Src/main.c:416:13:MX_I2C1_Init	2
+../Core/Src/main.c:450:13:MX_TIM4_Init	4
+../Core/Src/main.c:495:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:528:13:MX_GPIO_Init	1
+../Core/Src/main.c:550:6:temp_conv	1
+../Core/Src/main.c:558:6:print_char	4
+../Core/Src/main.c:585:6:Error_Handler	1
