@@ -1,7 +1,3 @@
-# Patient-monitoring-system-using-STM32-black-pill-board
-Here’s an updated Git description for your repository, incorporating the distinction between the two project files:
-
----
 
 # Patient Monitoring System Using STM32 Black Pill Board
 
